@@ -2,12 +2,14 @@
 
 # asdf-murray [![Build](https://github.com/stefanomondino/asdf-murray/actions/workflows/build.yml/badge.svg)](https://github.com/stefanomondino/asdf-murray/actions/workflows/build.yml) [![Lint](https://github.com/stefanomondino/asdf-murray/actions/workflows/lint.yml/badge.svg)](https://github.com/stefanomondino/asdf-murray/actions/workflows/lint.yml)
 
-[murray](https://github.com/synesthesia-it/murray) plugin for the [asdf version manager](https://asdf-vm.com).
+[Murray](https://github.com/synesthesia-it/murray) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
 # Contents
 
+- [asdf-murray  ](#asdf-murray--)
+- [Contents](#contents)
 - [Dependencies](#dependencies)
 - [Install](#install)
 - [Contributing](#contributing)
